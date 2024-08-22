@@ -532,16 +532,6 @@ If the face recognition operation succeeds, a list of FirebaseVisionFace objects
               val id = face.trackingId
           }
       }
-      
- ### Examples
- 
- 1. Countour detection-
- 
- ![](https://github.com/Rishit-dagli/MLKit-Firebase/blob/master/images/face_contours.svg)
-
-2. Face + Emotion detection -
-
-![](https://github.com/Rishit-dagli/MLKit-Firebase/blob/master/images/face%20detection%20example.jpeg)
 
 ## What next! 
 
